@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 123.30115 123.07695">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-4 {
+        fill: #373434;
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="63.61539" y1="611.3031" x2="63.61539" y2="668.32455" gradientTransform="translate(125.30366 -546.52411) rotate(-180) scale(1.00001 -1.00001)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#373434"/>
+      <stop offset="1" stop-color="#d7d9d8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="63.61535" y1="608.17599" x2="63.61535" y2="546.52108" gradientTransform="translate(125.30366 -546.52411) rotate(-180) scale(1.00001 -1.00001)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0b3e3b"/>
+      <stop offset="1" stop-color="#77afaf"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="15.98203" y1="669.63029" x2="16.27214" y2="546.49051" gradientTransform="translate(93.04946 669.60343) scale(1.00001 -1.00001)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d2dcdb"/>
+      <stop offset="1" stop-color="#77afaf"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="111.03553" y1="668.69473" x2="111.32158" y2="547.27306" gradientTransform="translate(-97.05417 669.60341) scale(1.00001 -1.00001)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d2dcdb"/>
+      <stop offset="1" stop-color="#77afaf"/>
+    </linearGradient>
+  </defs>
+  <rect class="cls-4" x="43.10246" y="60.90677" width="37.16457" height="1.66087" transform="translate(-.14526 .14548) rotate(-.13497)"/>
+  <polygon class="cls-5" points="38.41307 123.07693 61.68793 86.20991 84.96044 123.07694 121.47482 123.07695 80.19619 61.42171 61.80471 61.42171 61.56883 61.42171 43.17969 61.4217 1.90103 123.07692 38.41307 123.07693"/>
+  <polygon class="cls-1" points="84.96047 .00002 61.68795 36.86704 38.41311 0 1.90106 0 43.17969 61.65524 61.56883 61.65525 61.80471 61.65525 80.19619 61.65525 121.47485 .00003 84.96047 .00002"/>
+  <rect class="cls-3" x="95.05183" y=".00237" width="28.24931" height="123.07459" transform="translate(218.35295 123.07934) rotate(-179.99999)"/>
+  <rect class="cls-2" x=".00002" y=".00234" width="28.2493" height="123.07459" transform="translate(28.24932 123.07927) rotate(-179.99999)"/>
+</svg>
